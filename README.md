@@ -6,7 +6,7 @@ Upcoming Software Engineer
 - 🤔 I’m looking for Job
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](gowthampalanisamy3304@gmail.com)[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gowtham-palanisamy-620821241/)[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](gowtham3304@outlook.in)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gowtham-palanisamy-620821241/)[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://gowthampalanisamy3304@gmail.com)[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](https://gowtham3304@outlook.in)
 - 😄 Pronouns: Techie
 
 ### I code in
@@ -18,7 +18,7 @@ Upcoming Software Engineer
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_5000H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham3304&theme=white&show_icons=true&&hide=issues,contribs)
 
 [![Gowtham's Leetcode Stats](https://leetcard.jacoblin.cool/Gowtham_332004?theme=dark&font=Noto%20Sans%20Old%20Italic&ext=activity)](https://leetcode.com/Gowtham_332004)
 
