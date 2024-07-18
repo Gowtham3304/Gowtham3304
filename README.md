@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/44a5669e-6980-481a-ad81-4eaf92383759)## Hi there 👋 It's me Gowtham Palanisamy
-
+## Hi there 👋 It's me Gowtham Palanisamy
+Computer Science Engineer
 Upcoming Software Engineer
-<img align="right" width="370" height="290" src="https://images.app.goo.gl/FNKPjBCY2FSYuzNy6">                                              
+<img align="right" width="370" height="290" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s">                                              
 - 🌱 I’m currently learning DevOps
 - 🤔 I’m looking for Job
 - 💬 Ask me about Tech
