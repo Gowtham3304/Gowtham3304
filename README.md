@@ -22,4 +22,3 @@ Upcoming Software Engineer
 
 [![Gowtham's Leetcode Stats](https://leetcard.jacoblin.cool/Gowtham_332004?theme=dark&font=Noto%20Sans%20Old%20Italic&ext=activity)](https://leetcode.com/Gowtham_332004)
 
-[![Gowtham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowtham3304&bg_color=621840&color=000000&line=dedede&point=1d1b1b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
